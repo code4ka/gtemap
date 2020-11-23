@@ -1,0 +1,3 @@
+[submodule "gas/csv2spreadsheet"]
+	path = gas/csv2spreadsheet
+	url = https://github.com/YAJIMA/csv2spreadsheet.git
